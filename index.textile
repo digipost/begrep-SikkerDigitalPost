@@ -57,4 +57,4 @@ table(table table-striped).
 
 Vil du ha tak i mer tekniske detaljar se gjerne her:
 * "Xml Eksempel på meldingar":eksempler/
-* "XML Schema Definition filer":xsd/
+* "XML Schema Definition filer":xsd/README
